@@ -17,7 +17,8 @@ nav{
 
 .text-xl {
     font-size: 1.25rem;
-    line-height: 1.75rem;
+    line-height: 1.5rem;
+    
 }
 
 a{
@@ -40,15 +41,55 @@ a{
     text-decoration: underline;
     color: white;
     display: block;
+    margin-top: 20px;
 }
 
-#device-support{
+#device-support {
     color: white;
     text-align: center;
     margin: auto;
     width: 70%;
+    font-weight: bold;
 }
 
-#callToAction{
-    text-align: center;
+.device {
+    margin-top: 100px;
+    margin-bottom: 20px;
+    font-size: 30px;
+    font-weight: bold;
 }
+
+#callToAction {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+#view {
+    padding: 10px;
+    margin: 40px;
+    background: rgb(18 20 22);
+    box-sizing: border-box;
+    box-shadow: white 100px ;
+    border-radius: 10px;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    
+}
+
+.call-2{
+    margin-top: 20px;
+    margin-bottom: 5px;
+    font-size: 25px;   
+    font-weight: bold;
+}
+
+.call{
+    margin-top: 5px;
+    margin-bottom: 50px;
+    font-size: 60px;   
+    font-weight: bold;
+}
+
